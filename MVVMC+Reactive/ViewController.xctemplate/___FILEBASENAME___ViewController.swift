@@ -3,15 +3,14 @@
 //  ___PROJECTNAME___
 //
 //  Created by ___FULLUSERNAME___ on ___DATE___.
-//___COPYRIGHT___
+//  ___COPYRIGHT___
 //
 
 import UIKit
 import RxCocoa
 import RxSwift
-import NSObject_Rx
 
-class ___VARIABLE_sceneName___ViewController: UIViewController, BindableType {
+class ___VARIABLE_sceneName___ViewController: UIViewController {
   
   // MARK: IBOutlet
   
